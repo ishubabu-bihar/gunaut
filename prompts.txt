@@ -1,0 +1,2 @@
+create a website for studing student where i can update notice and give information about there upcoming classes and give name the website gunat and it has login/singup option for student to login
+where i will manage it like form where i udate clss and notice 
